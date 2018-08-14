@@ -1,4 +1,4 @@
-/home/matheus/Documentos/clion-2018.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/matheus/Dados/Project/06-08/ObjectDetection
+/home/matheus/Documentos/clion-2018.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/matheus/Dados/Project/13-08/ObjectRecognition
 -- The C compiler identification is GNU 5.4.0
 -- The CXX compiler identification is GNU 5.4.0
 -- Check for working C compiler: /usr/bin/cc
@@ -16,4 +16,4 @@
 -- Found OpenCV: /usr/local (found version "3.4.1") 
 -- Configuring done
 -- Generating done
--- Build files have been written to: /media/matheus/Dados/Project/06-08/ObjectDetection/cmake-build-debug
+-- Build files have been written to: /media/matheus/Dados/Project/13-08/ObjectRecognition/cmake-build-debug

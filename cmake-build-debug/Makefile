@@ -48,10 +48,10 @@ RM = /home/matheus/Documentos/clion-2018.2/bin/cmake/linux/bin/cmake -E remove -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /media/matheus/Dados/Project/06-08/ObjectDetection
+CMAKE_SOURCE_DIR = /media/matheus/Dados/Project/13-08/ObjectRecognition
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /media/matheus/Dados/Project/06-08/ObjectDetection/cmake-build-debug
+CMAKE_BINARY_DIR = /media/matheus/Dados/Project/13-08/ObjectRecognition/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/matheus/Dados/Project/06-08/ObjectDetection/cmake-build-debug/CMakeFiles /media/matheus/Dados/Project/06-08/ObjectDetection/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/matheus/Dados/Project/13-08/ObjectRecognition/cmake-build-debug/CMakeFiles /media/matheus/Dados/Project/13-08/ObjectRecognition/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /media/matheus/Dados/Project/06-08/ObjectDetection/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /media/matheus/Dados/Project/13-08/ObjectRecognition/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
