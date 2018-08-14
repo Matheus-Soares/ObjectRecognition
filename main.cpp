@@ -7,7 +7,7 @@
 #include "opencv2/features2d.hpp"
 #include "opencv2/highgui.hpp"
 #include "opencv2/imgcodecs.hpp"
-
+//2b
 #include <iostream>
 #include <stdio.h>
 #include <vector>
